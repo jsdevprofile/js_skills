@@ -1,3 +1,4 @@
-import './module'
+import './module';
+import '@/scss/index.scss';
 
-console.log('source folder')
+console.log('source folder');
